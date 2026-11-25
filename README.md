@@ -47,7 +47,7 @@ Store owners scan their products to build an inventory. When a customer buys an 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/eoghann-dev/YOUR_REPOSITORY_NAME.git
+   git clone https://github.com/eoghann-dev/stokya.git
    cd YOUR_REPOSITORY_NAME
    ```
 
